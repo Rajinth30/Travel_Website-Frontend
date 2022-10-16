@@ -18,10 +18,7 @@ const Search = () => {
             complimentary green fees at our golf resorts and certified scuba
             diving at most resorts. If you are planning a wedding, BEACHES is
             the leader in Caribbean destination weddings and honeymoon packages.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia
-            maiores, assumenda nesciunt explicabo vel ratione provident corrupti
-            odio doloremque debitis placeat quo quos obcaecati eum quam ipsa
-            labore accusamus ullam.
+            
           </p>
         </div>
         <div className="grid sm:grid-cols-2 gap-8 py-4">
